@@ -4,10 +4,10 @@
 //
 
 cc_binary {
-    name: "android.hardware.lights-service.pro1x",
+    name: "android.hardware.lights-service.boox",
     relative_install_path: "hw",
-    init_rc: ["android.hardware.lights.pro1x.rc"],
-    vintf_fragments: ["android.hardware.lights.pro1x.xml"],
+    init_rc: ["android.hardware.lights.boox.rc"],
+    vintf_fragments: ["android.hardware.lights.boox.xml"],
     vendor: true,
     srcs: [
         "main.cpp",

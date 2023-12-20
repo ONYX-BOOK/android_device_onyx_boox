@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise, are
-## from FxTec Pro1-X (RKQ1.211130.001).
+## from ONYX BOOX (RKQ1.210614.002).
 
 # ACDB
 vendor/etc/acdbdata/IDP/IDP_Bluetooth_cal.acdb

@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=pro1x
-VENDOR=fxtec
+DEVICE=boox
+VENDOR=onyx
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"

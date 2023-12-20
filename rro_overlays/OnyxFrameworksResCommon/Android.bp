@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "FxtecWifiResCommon",
-    vendor: true,
+    name: "OnyxFrameworksResCommon",
+    product_specific: true,
 }

@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "FxtecSettingsProviderResTarget",
+    name: "OnyxSettingsProviderResTarget",
     product_specific: true,
 }

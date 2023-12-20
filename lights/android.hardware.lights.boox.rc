@@ -7,7 +7,7 @@ on early-boot
     # Backlight permissions
     chown system system /sys/class/leds/button-backlight/brightness
 
-service vendor.light /vendor/bin/hw/android.hardware.lights-service.pro1x
+service vendor.light /vendor/bin/hw/android.hardware.lights-service.boox
     class hal
     user system
     group system

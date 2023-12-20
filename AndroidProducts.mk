@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pro1x.mk
+    $(LOCAL_DIR)/lineage_boox.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_pro1x-eng \
-    lineage_pro1x-user \
-    lineage_pro1x-userdebug
+    lineage_boox-eng \
+    lineage_boox-user \
+    lineage_boox-userdebug
